@@ -1,5 +1,6 @@
 ## Create cli task management tool
 
+> Please study go   arrays, slices and maps before starting task and try to implement with them.
 `
 1. Running tool I should be able to do below operations
 
